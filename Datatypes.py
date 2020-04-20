@@ -1,4 +1,4 @@
-#This program is for datatypes in the python
+#This program is for datatypes in the python, which helps to understand the datatypes.
 print("Hello Vivekananda Thimmaiah")
 string1='vivek'
 string2='ananda'
